@@ -58,6 +58,8 @@ An IoT-based attendance management system using RFID, ESP32, Python Flask, and S
 ## 🤝 Connect With Me
 
 - GitHub: [@NirajRanaware](https://github.com/NirajRanaware)
+- Linkedin: in/niraj-ranaware-15636543a
+- Gmail: nirajranaware@gmail.com
 
 ---
 
